@@ -1,7 +1,6 @@
 ---
 title: "Statistical Inference Project Part 1"
-author: "Michael Galarnyk"
-date: "May 27, 2017"
+
 output: html_document
 ---
 
